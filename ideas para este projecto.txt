@@ -1,0 +1,28 @@
+permitir crear al jugador sus propios glifos, que son basicamente macros de varios efectos juntos, 
+que permitiran encadenar hechizos basicos rapidamente a un jugador de nivel alto pa que no se tire media hora haciendo gestos basicos 
+
+efecto que permita cambiar el elemento de la magia, los elementos interactuan con el entorno y cambian los efectos del hechizo en cuestion(ej. cono + fuego = bola de fuego, 
+cono + agua= virote de hielo que se pincha en las cosas como las flechas, cono + rayo = rayo hitscan)
+
+crear un hechizo de telekinesis
+
+mejorar el sistema de hechizos añadiendo que puedas mantener el trigger del disparador y mientras lo mantengas ejerzas control continuo sobre x efectos
+
+añadir un hechizo que permita controlar la direccion en la que avanza el proyectil (a lo bola de fuego en B&S, Projectile Movement component??)
+
+hechizo que permita manipular la dirección de la gravedad
+
+forma de castear magia como el proyectil (cono) pero que sea concentrado en la mano donde toques (como los touch de oblivion)
+
+para muy del futuro, metodos para aprender magia, libros de hechizos con represnetaciones en dibujos del gesto y lore del hechizo, 
+magos a los que puedas convencer/comprar el derecho de ser su discipulo 
+y te enseñen magia unica, leyendas que puedas perseguir y adquirir conocimiento perdido
+
+el jugador podra disponer de su propio grimorio que podra rellenar con los hechizos que aprenda o adquiera 
+(coges el grimorio con la mano que castea y le das al trigger entonces el siguiente gesto que hagas si es correcto se añadira al grimorio)
+
+al mundo no le importa el jugador una mierda a menos que el jugador se gane la importancia, no te explican una mierda y tu debes buscarte la vida como player, 
+tendras medios disponibles para ello pero no te los darán asi como así debes ganartelos. 
+
+el mapa lo dibujas a lo half life alyx con rotuladores sobre un mesh papel plano, si no este otro metodo: el mapa lo dibujas (pintas con vertex y 
+cambia el alpha y se ve el material del mapa por las zonas que has estado), tambien podrás comprar mapas ya pintados, no hay indicador de donde estas debes guiarte por landmarks.
