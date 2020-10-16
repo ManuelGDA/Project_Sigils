@@ -50,6 +50,10 @@
 			"Name": "FoliagePlugin",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/f0cb99ea851a40b682de1debe6c1bc08"
+		},
+		{
+			"Name": "SunPosition",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
