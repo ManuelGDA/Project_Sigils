@@ -26,3 +26,5 @@ tendras medios disponibles para ello pero no te los darán asi como así debes g
 
 el mapa lo dibujas a lo half life alyx con rotuladores sobre un mesh papel plano, si no este otro metodo: el mapa lo dibujas (pintas con vertex y 
 cambia el alpha y se ve el material del mapa por las zonas que has estado), tambien podrás comprar mapas ya pintados, no hay indicador de donde estas debes guiarte por landmarks.
+
+central el plot del juego en torno a como el poder corrompe incentivando al jugador a que abuse de su potencial magico poco a poco conforme progresa en el juego
