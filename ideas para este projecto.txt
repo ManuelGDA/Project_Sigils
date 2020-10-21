@@ -27,4 +27,8 @@ tendras medios disponibles para ello pero no te los darán asi como así debes g
 el mapa lo dibujas a lo half life alyx con rotuladores sobre un mesh papel plano, si no este otro metodo: el mapa lo dibujas (pintas con vertex y 
 cambia el alpha y se ve el material del mapa por las zonas que has estado), tambien podrás comprar mapas ya pintados, no hay indicador de donde estas debes guiarte por landmarks.
 
-central el plot del juego en torno a como el poder corrompe incentivando al jugador a que abuse de su potencial magico poco a poco conforme progresa en el juego
+central el plot del juego en torno a como una persona normal y corriente obtiene un potencial magico infinito y de como se desarrolla, 
+hay varios branches en funcion de sus acciones y todas seran juzgadas (bueno, malo y neutral por ahora)
+
+en alguna parte del juego segun en que branch este el jugador tendra que lidiar con el personaje de otro jugador (controlado por IA) 
+que invade su mundo (malo lidia con heroe de otro mundo, bueno lidia con un villano de otro mundo y los neutrales lidian con otros neutrales que invaden por razones egoistas)
