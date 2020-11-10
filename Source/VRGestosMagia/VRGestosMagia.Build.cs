@@ -7,9 +7,13 @@ public class VRGestosMagia : ModuleRules
 	public VRGestosMagia(ReadOnlyTargetRules Target) : base(Target)
     {
         PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
-       // PrivatePCHHeaderFile = "Private/WindowsMixedRealityPrecompiled.h";
+		// PrivatePCHHeaderFile = "Private/WindowsMixedRealityPrecompiled.h";
 
-        PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "AdvancedSessions", "VRExpansionPlugin" });
+		PublicIncludePaths.Add(ModuleDirectory + "/Library/DTL/");
+
+		PrivateDependencyModuleNames.AddRange(new string[] { "Landscape", "LandscapeEditor" });
+
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "AdvancedSessions", "VRExpansionPlugin" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
