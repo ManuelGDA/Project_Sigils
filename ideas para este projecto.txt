@@ -1,6 +1,10 @@
 generacion de historia procedural por data tables con la que se determinan las relaciones entre facciones preestablecidas de npcs entre ellas y el jugador
-inspiracion Caves of Qud(https://youtu.be/H0sLa1y3BW4), terreno handcrafted, facciones y npcs precolocados en el mapa, goal driven npcs, goal are determined by history
+inspiracion Caves of Qud(https://youtu.be/H0sLa1y3BW4), terreno handcrafted, facciones y npcs precolocados en el mapa, goal driven npcs, 
+goal are determined by history
 
+generación de terreno procedural: https://github.com/Kasugaccho/DungeonTemplateLibrary, (considerar el uso de esto en conjunto del gen de historia para 
+maximum wackyness, además, mi primera idea es que haya islas y cada isla sea de una faccion predominante y la generacion procedural de cada isla sea determinada
+por settings de esa facción)
 
 permitir crear al jugador sus propios glifos, que son basicamente macros de varios efectos juntos, 
 que permitiran encadenar hechizos basicos rapidamente a un jugador de nivel alto pa que no se tire media hora haciendo gestos basicos 
@@ -13,8 +17,6 @@ crear un hechizo de telekinesis
 mejorar el sistema de hechizos añadiendo que puedas mantener el trigger del disparador y mientras lo mantengas ejerzas control continuo sobre x efectos
 
 añadir un hechizo que permita controlar la direccion en la que avanza el proyectil (a lo bola de fuego en B&S, Projectile Movement component??)
-
-hechizo que permita manipular la dirección de la gravedad
 
 forma de castear magia como el proyectil (cono) pero que sea concentrado en la mano donde toques (como los touch de oblivion)
 
