@@ -13,7 +13,7 @@ public class VRGestosMagia : ModuleRules
 
 		PrivateDependencyModuleNames.AddRange(new string[] { "Landscape", "LandscapeEditor" });
 
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "AdvancedSessions", "VRExpansionPlugin" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "AdvancedSessions", "VRExpansionPlugin", "FWorldGenerator" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
