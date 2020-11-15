@@ -10,11 +10,10 @@ public class VRGestosMagia : ModuleRules
 		// PrivatePCHHeaderFile = "Private/WindowsMixedRealityPrecompiled.h";
 		
 
-		 PublicIncludePaths.Add(ModuleDirectory + "/Library/DTL/");
 
 		PrivateDependencyModuleNames.AddRange(new string[] { "Landscape", "LandscapeEditor" });
 		                                                                                                                                              
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "AdvancedSessions", "VRExpansionPlugin", "FWorldGenerator" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "AdvancedSessions", "VRExpansionPlugin" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
