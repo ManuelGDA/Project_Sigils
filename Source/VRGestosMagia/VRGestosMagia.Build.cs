@@ -12,7 +12,7 @@ public class VRGestosMagia : ModuleRules
 
 
 		                                                                                                                                              
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "AdvancedSessions", "VRExpansionPlugin" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "VRExpansionPlugin" });
 
 
 		// Uncomment if you are using Slate UI
