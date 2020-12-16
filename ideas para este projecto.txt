@@ -2,6 +2,8 @@ generacion de historia procedural por data tables con la que se determinan las r
 inspiracion Caves of Qud(https://youtu.be/H0sLa1y3BW4), terreno handcrafted, facciones y npcs precolocados en el mapa, goal driven npcs, 
 goal are determined by history
 
+https://www.youtube.com/watch?v=3G5o3KhXv6w&feature=emb_logo ideas de Itsuno del dragons dogma original
+
 generación de terreno procedural: https://github.com/Kasugaccho/DungeonTemplateLibrary, (considerar el uso de esto en conjunto del gen de historia para 
 maximum wackyness, además, mi primera idea es que haya islas y cada isla sea de una faccion predominante y la generacion procedural de cada isla sea determinada
 por settings de esa facción)
