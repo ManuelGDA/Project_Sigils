@@ -40,3 +40,11 @@ hay varios branches en funcion de sus acciones y todas seran juzgadas (bueno, ma
 
 en alguna parte del juego segun en que branch este el jugador tendra que lidiar con el personaje de otro jugador (controlado por IA) 
 que invade su mundo (malo lidia con heroe de otro mundo, bueno lidia con un villano de otro mundo y los neutrales lidian con otros neutrales que invaden por razones egoistas)
+
+sistema de dolor por thresholds, durante el combate si te dan hostias y no supera el 1er threshold no notas nada hasta que termina el combate, 
+fuera de combate con la adrenalina baja te baja un poco las stats y la fuerza etc, si te dan una herida grave te bajan las stats incluso en mitad de combate y notas el dolor intenso
+
+one shot protection para que siempre tengas una oportunidad
+
+hechizos simples clasicos de fantasía rpg para casteos rapidos
+
